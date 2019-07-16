@@ -55,6 +55,7 @@ public class StreamUtilTest {
 		System.out.println(readStringFromSystemIn);
 		
 		
+		
 	}
 
 }
